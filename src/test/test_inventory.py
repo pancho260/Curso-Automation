@@ -1,4 +1,4 @@
-from src.test.utils import *
+from src.utils.utils import *
 
 def test_de_validar_titulo_del_inventario():
     driver = setup_driver_inventory()
