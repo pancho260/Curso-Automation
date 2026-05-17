@@ -29,7 +29,7 @@ El proyecto valida las funcionalidades principales de la aplicación web **Swag 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/pancho260/Curso-Automation
 cd "Curso Automation"
 ```
 
