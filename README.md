@@ -90,10 +90,11 @@ Curso Automation/
 ├── src/
 │   └── test/
 │       ├── __init__.py
-│       ├── utils.py            # Configuración del WebDriver
 │       ├── test_login.py       # Pruebas de inicio de sesión
 │       ├── test_inventory.py   # Pruebas del inventario
 │       └── test_cart.py        # Pruebas del carrito de compras
+│   └── utils/
+│       ├── utils.py            # Configuración del WebDriver
 ├── assets/
 │   └── style.css               # Estilos para el reporte HTML
 ├── reporte.html                # Reporte generado tras la ejecución
