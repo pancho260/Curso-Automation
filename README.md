@@ -30,7 +30,7 @@ El proyecto valida las funcionalidades principales de la aplicación web **Swag 
 
 ```bash
 git clone https://github.com/pancho260/Curso-Automation
-cd "Curso Automation"
+cd "Curso-Automation"
 ```
 
 ### 2. Crear y activar un entorno virtual
